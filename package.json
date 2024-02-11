@@ -21,6 +21,7 @@
     "@trpc/next": "^10.43.6",
     "@trpc/react-query": "^10.43.6",
     "@trpc/server": "^10.43.6",
+    "matter-js": "^0.19.0",
     "next": "^14.0.4",
     "next-auth": "^4.24.5",
     "react": "18.2.0",
@@ -31,6 +32,7 @@
   },
   "devDependencies": {
     "@types/eslint": "^8.44.7",
+    "@types/matter-js": "^0.19.6",
     "@types/node": "^18.17.0",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
